@@ -7,13 +7,13 @@ import Cart from './components/Cart';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/react-shopping-cart">
       <Header />
       <div>
         <Routes>
-          <Route path="/" exact element={<Home />}>
+          <Route path="/" element={<Home />}>
           </Route>
-          <Route path="/cart" exact element={<Cart />}>
+          <Route path="/cart" element={<Cart />}>
           </Route>
         </Routes>
       </div>
