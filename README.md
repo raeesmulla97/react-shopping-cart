@@ -4,7 +4,8 @@
 A web application that provides a seamless online shopping experience. Built with React.js, this app offers dynamic product listings, an interactive shopping cart, and efficient state management using Context API and Reducers.
 
 
-
+## 🔗 Live Demo
+[Click here to view the project](https://raeesmulla97.github.io/react-shopping-cart/) 🚀
 
 ## 🚀 Features
 
